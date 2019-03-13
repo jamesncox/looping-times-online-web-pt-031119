@@ -1,6 +1,6 @@
 def using_times
 	7.times do 
-	  "Wingaurdium Leviosa"
+	  puts "Wingaurdium Leviosa"
 	end
 end
 
